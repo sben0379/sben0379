@@ -8,10 +8,10 @@ I'm James, a software developer passionate about learning new languages and skil
 • Django
 • Bootstrap
 ### Projects
-These are a few of my favourite projects that I've developed. For a full list of my projects, please visit my GitHub profile.
-* Project Manager: link. Description.
-* Inventory Manager: link. Description. 
-* Minesweeper: Link. Description. 
+These are a few of my favourite projects that I've developed. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
+* [Project Manager](https://github.com/sben0379/TaskManager): Description.
+* [Inventory Manager](https://github.com/sben0379/InventoryManager): Description. 
+* [Minesweeper](https://github.com/sben0379/Minesweeper): Description. 
 ### Contact Me
 Email: 
 LinkedIn: 
