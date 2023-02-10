@@ -9,7 +9,7 @@ I'm James, a software developer passionate about learning new languages and skil
 • Bootstrap
 ### Projects
 These are a few of my favourite projects that I've developed. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
-* [Project Manager](https://github.com/sben0379/TaskManager): The latest version of the first major capstone project I worked on. It is designed to read and write to external files in order to monitor team project progress and calculate and display useful statistics. 
+* [Project Manager](https://github.com/sben0379/ProjectManager): The latest version of the first major capstone project I worked on. It is designed to read and write to external files in order to monitor team project progress and calculate and display useful statistics. 
 * [Inventory Manager](https://github.com/sben0379/InventoryManager): The first capstone project I've written that makes use of OOP. It creates objects when reading from an external file (in this case shoes) and allows them to be accessed via their attributes and be manipulated accordingly. 
 * [Minesweeper](https://github.com/sben0379/Minesweeper): A simple programme demonstrating the use of multi-dimensional lists. The programme generates a random minefield and detects how many mines are adjacent to each square on the grid, displaying the number accordingly. 
 ### Contact Me
