@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm James, a software developer passionate about learning new languages and skills to use in projects. I'm currently undertaking a software engineering bootcamp with HyperionDev, working on Python, HTML, CSS, Django and SQL. I am also currently learning JavaScript on the side and practising with HTML and CSS in order to deliver on websites promised to friends and family!
+I'm James, a software developer passionate about learning new languages, skills and techniques to use in projects. I'm currently undertaking a software engineering bootcamp with HyperionDev, working on Python, HTML, CSS, Django and SQL. I am also currently learning JavaScript on the side and practising with HTML and CSS in order to deliver on websites promised to friends and family!
 ### Tech stack
 • Python
 • HTML
