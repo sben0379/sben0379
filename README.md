@@ -5,8 +5,6 @@ I'm James, a software developer passionate about learning new languages, skills 
 • HTML
 • CSS
 • SQL
-• Django
-• Bootstrap
 ### Projects
 These are the projects that I'm currently working on. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
 
