@@ -8,11 +8,11 @@ I'm James, a software developer passionate about learning new languages, skills 
 • Django
 • Bootstrap
 ### Projects
-These are a few of my favourite projects that I've developed/am developing. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
+These are the projects that I'm currently working on. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
+
+* [Chess](https://github.com/sben0379/Eddie): Step one of a long-term project to build a chess engine using Python is to create a working chess game from scratch. The current programme graphically represents the board and allows pieces to be moved using the pygame module. The next step is to correctly limit piece movements according to the rules of chess. 
+* [Minesweeper](https://github.com/sben0379/Minesweeper): This was originally a simple read-only programme designed to demonstrate the use of 2D lists, but I am now working to make the game fully functional. 
 * [Project Manager](https://github.com/sben0379/ProjectManager): The latest version of the first major capstone project I worked on. It is designed to read and write to external files in order to monitor team project progress and calculate and display useful statistics. 
-* [Eddie](https://github.com/sben0379/Eddie): A long term project to create a 2000 ELO strength chess engine using Python. I plan to keep a blog as I work on the project. 
-* [Inventory Manager](https://github.com/sben0379/InventoryManager): The first capstone project I've written that makes use of OOP. It creates objects when reading from an external file (in this case shoes) and allows them to be accessed via their attributes and be manipulated accordingly. 
-* [Minesweeper](https://github.com/sben0379/Minesweeper): A simple programme demonstrating the use of multi-dimensional lists. The programme generates a random minefield and detects how many mines are adjacent to each square on the grid, displaying the number accordingly. UPDATE: I am now working on turning this programme into a fully functioning game. The current version now graphically represents the minefield using pygame. User input functionality to come!
 ### Contact Me
 Email: james_baxter@zoho.com
 
