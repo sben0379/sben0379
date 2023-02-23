@@ -8,7 +8,7 @@ I'm James, a software developer passionate about learning new languages, skills 
 ### Projects
 These are the projects that I'm currently working on. For a full list of my projects, please visit my [GitHub profile](https://github.com/sben0379?tab=repositories).
 
-* [Chess](https://github.com/sben0379/Eddie): Step one of a long-term project to build a chess engine using Python is to create a working chess game from scratch. The current programme graphically represents the board and allows pieces to be moved using the pygame module. The next step is to correctly limit piece movements according to the rules of chess. 
+* [Chess](https://github.com/sben0379/Eddie): Step one of a long-term project to build a chess engine using Python is to create a working chess game from scratch. The current version graphically represents the board and piece movements, correctly limits piece movements as per the rules of chess and can evaluate whether the king is in check to prevent the user from making an illegal move.
 * [Minesweeper](https://github.com/sben0379/Minesweeper): This was originally a simple read-only programme designed to demonstrate the use of 2D lists, but I am now working to make the game fully functional. 
 * [Project Manager](https://github.com/sben0379/ProjectManager): The latest version of the first major capstone project I worked on. It is designed to read and write to external files in order to monitor team project progress and calculate and display useful statistics. 
 ### Contact Me
